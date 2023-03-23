@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > This is a microverse project
 
-**[your_project__name]** is a...
+**Microverse First project** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -99,9 +99,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Authentification**
+- **Listing**
+- **Searching**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,9 +207,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/menendezon)
-- Twitter: [@twitterhandle](https://twitter.com/menendezon)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/menendezon)
+- GitHub: [@menendezon](https://github.com/menendezon)
+- Twitter: [@menendezon](https://twitter.com/menendezon)
+- LinkedIn: [MenendezON](https://linkedin.com/in/menendezon)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
